@@ -16,7 +16,7 @@ A modern, fully front-end web app for managing competitions, stages, reports, an
 ## How to Use
 
 1. **Download or clone the repository**
-2. Open `competition_manager.html` with any modern browser (Chrome, Firefox, Edge)
+2. Open `index.html` with any modern browser (Chrome, Firefox, Edge)
 3. Start adding competitions and team members
 4. Click `Download CSV` to save your data
 5. Upload the previously saved CSV to continue editing
