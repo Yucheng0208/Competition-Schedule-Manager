@@ -21,8 +21,6 @@ A modern, fully front-end web app for managing competitions, stages, reports, an
 4. Click `Download CSV` to save your data
 5. Upload the previously saved CSV to continue editing
 
----
-
 ## File Structure
 
 ```
@@ -30,12 +28,6 @@ Competition-Schedule-Manager
 ├── competition_manager.html # Main app (open this in browser)
 ├── README.md # This file
 ```
-
-## Preview
-
-![preview](https://user-images.githubusercontent.com/your-image-placeholder.png)
-
-> Screenshot preview optional — You can take a snapshot of the UI and upload it to your GitHub repo.
 
 ## Tech Stack
 
